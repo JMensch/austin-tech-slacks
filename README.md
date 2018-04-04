@@ -11,3 +11,7 @@ A list of tech related Slack teams in the Austin area
 [Request an invite.](https://slack.open-austin.org/)<br>
 "Open government, open data, and civic apps in Austin, Texas."
 
+[Design Think Social](https://thedesignthinkingsocial5.splashthat.com/)
+=====================
+"We bring you "The Design Thinking Social", a monthly event that gets you in front of Austin’s diversity in tech stakeholders. We come together to build a roadmap and tackle the problems experienced within the tech ecosystem."
+
